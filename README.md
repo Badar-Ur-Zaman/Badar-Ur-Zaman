@@ -1,7 +1,5 @@
 ![Software Engineer](https://media.licdn.com/dms/image/D4D16AQEX91QVM-sZTA/profile-displaybackgroundimage-shrink_350_1400/0/1711551875388?e=1726099200&v=beta&t=C2zjntt15vxclZgESrU4WD4gHw4q2s6BSOeEvtAZMcM)
 
-![Software Engineer](https://media.licdn.com/dms/image/D4D16AQEX91QVM-sZTA/profile-displaybackgroundimage-shrink_350_1400/0/1711551875388?e=1726099200&v=beta&t=C2zjntt15vxclZgESrU4WD4gHw4q2s6BSOeEvtAZMcM)
-
 <div align="center">
 
 ### Hi there, I'm Badar Ur Zaman 👋!
