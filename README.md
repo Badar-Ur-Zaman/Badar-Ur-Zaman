@@ -27,7 +27,9 @@ I really enjoy learning new languages and frameworks like React, Flask, Django, 
 
 - 📫 Reach me out at hbrsadiqian123@gmail.com for collaboration.
 
-<div align="center">
+## Social Links
+
+<div align="center"
 
 <div align="center">
     <a href="https://github.com/Badar-Ur-Zaman"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="fill: white;"></a>
@@ -40,5 +42,7 @@ I really enjoy learning new languages and frameworks like React, Flask, Django, 
 
 
 </div>
+
+## Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badar-ur-zaman&show_icons=true&locale=en&layout=compact" alt="badar-ur-zaman" /></p>
