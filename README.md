@@ -10,29 +10,8 @@ I really enjoy learning new languages and frameworks like React, Flask, Django, 
 
 ## Skills and Experience
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="margin-right: 20px;">
-        <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" alt="React">
-    </div>
-    <div style="margin-right: 20px;">
-        <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&style=flat" alt="ExpressJS">
-    </div>
-    <div style="margin-right: 20px;">
-        <img src="https://img.shields.io/badge/-Flask%20and%20Django-092E20?logo=flask&style=flat&logoColor=white" alt="Flask and Django">
-    </div>
-    <div style="margin-right: 20px;">
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL">
-    </div>
-    <div style="margin-right: 20px;">
-        <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker">
-    </div>
-    <div style="margin-right: 20px;">
-        <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat" alt="C++">
-    </div>
-    <div>
-        <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat" alt="LeetCode">
-    </div>
-</div>
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![ExpressJS](https://img.shields.io/badge/-Express.js-000000?logo=express&style=flat) ![Flask and Django](https://img.shields.io/badge/-Flask%20and%20Django-092E20?logo=flask&style=flat&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat) ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat)
+
 
 
 ## Current Focus
