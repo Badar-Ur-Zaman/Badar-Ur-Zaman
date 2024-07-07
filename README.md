@@ -2,15 +2,14 @@
 
 <div align="center">
 
-### Hi there, I'm Badar Ur Zaman 👋!
-
 I really enjoy learning new languages and frameworks like React, Flask, Django, and more. My passion for continuous learning helps me stand out from the crowd and stay ahead in the ever-evolving tech landscape.
 
 </div>
 
 ## Skills and Experience
 
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" alt="React" height="40"> <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&style=flat" alt="ExpressJS" height="40"> <img src="https://img.shields.io/badge/-Flask%20and%20Django-092E20?logo=flask&style=flat&logoColor=white" alt="Flask and Django" height="40"> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL" height="40"> <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker" height="40"> <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat" alt="C++" height="40"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat" alt="LeetCode" height="40">
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" alt="React" height="30"> <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&style=flat" alt="ExpressJS" height="30"> <img src="https://img.shields.io/badge/-Flask%20and%20Django-092E20?logo=flask&style=flat&logoColor=white" alt="Flask and Django" height="30"> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL" height="30"> <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker" height="30"> <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat" alt="C++" height="30"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat" alt="LeetCode" height="30">
+
 
 
 
