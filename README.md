@@ -18,12 +18,18 @@ I really enjoy learning new languages and frameworks like React, Flask, Django, 
 * ![Cpp](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 * ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat)
 
-Skills: ExpressJS / ReactJS / Flask / Django / MySQL / Cpp / Docker / TailwindCSS
+## Current Focus
 
-- 🔭 I’m currently working on Billing Subscription Tool 
-- 🌱 I’m currently learning Web And Cloud 
-- 👯 I’m looking to collaborate on Web Projects 
-- 📫 How to reach me: hbrsadiqian123@gmail.com 
+- 🔭 I’m currently working on **Billing Subscription Tool** 
+- 🌱 I’m currently learning **Web And Cloud** 
+
+## Collaboration
+
+- 👯 I’m looking to collaborate on **Web Projects** 
+
+## Contact
+
+- 📫 How to reach me: hbrsadiqian123@gmail.com  
 
 <div align="center">
 
