@@ -23,9 +23,9 @@ I really enjoy learning new languages and frameworks like React, Flask, Django, 
 
 - 👯 I’m looking to collaborate on **Web Projects** 
 
-## Contact
+## Contact Me
 
-- 📫 How to reach me: hbrsadiqian123@gmail.com  
+- 📫 Reach me out at hbrsadiqian123@gmail.com for collaboration.
 
 <div align="center">
 
