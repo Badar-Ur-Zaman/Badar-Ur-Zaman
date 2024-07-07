@@ -1,19 +1,24 @@
-<div align="center">
-
-### I'm Badar Ur Zaman 👋!
-#### Software Engineer
-
-</div>
-
 ![Software Engineer](https://media.licdn.com/dms/image/D4D16AQEX91QVM-sZTA/profile-displaybackgroundimage-shrink_350_1400/0/1711551875388?e=1726099200&v=beta&t=C2zjntt15vxclZgESrU4WD4gHw4q2s6BSOeEvtAZMcM)
 
 <div align="center">
 
+### Hi there, I'm Badar Ur Zaman 👋!
+
 I really enjoy learning new languages and frameworks like React, Flask, Django, and more. My passion for continuous learning helps me stand out from the crowd and stay ahead in the ever-evolving tech landscape.
 
-Skills: ExpressJS / ReactJS / Flask / Django / MySQL / Cpp / Docker / TailwindCSS
-
 </div>
+
+## Skills and Experience
+
+* ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+* ![ExpressJS](https://img.shields.io/badge/-Express.js-000000?logo=express&style=flat)
+* ![Flask and Django](https://img.shields.io/badge/-Flask%20and%20Django-092E20?logo=flask&style=flat&logoColor=white)
+* ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+* ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+* ![Cpp](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+* ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat)
+
+Skills: ExpressJS / ReactJS / Flask / Django / MySQL / Cpp / Docker / TailwindCSS
 
 - 🔭 I’m currently working on Billing Subscription Tool 
 - 🌱 I’m currently learning Web And Cloud 
