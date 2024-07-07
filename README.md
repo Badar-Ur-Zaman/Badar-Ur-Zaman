@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Badar Ur Zaman
+<div align="center">
+
+### I'm Badar Ur Zaman 👋!
 #### Software Engineer
 ![Software Engineer](https://media.licdn.com/dms/image/D4D16AQEX91QVM-sZTA/profile-displaybackgroundimage-shrink_350_1400/0/1711551875388?e=1726099200&v=beta&t=C2zjntt15vxclZgESrU4WD4gHw4q2s6BSOeEvtAZMcM)
 
@@ -18,3 +20,4 @@ Skills: ExpressJS / ReactJS / Flask / Django / MySQL / Cpp / Docker / TailwindCS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Badar-Ur-Zaman)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
