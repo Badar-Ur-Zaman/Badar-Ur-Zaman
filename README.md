@@ -32,7 +32,6 @@ I really enjoy learning new languages and frameworks like React, Flask, Django, 
 <div align="center"
 
 <div align="center">
-    <a href="https://github.com/Badar-Ur-Zaman"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="fill: white;"></a>
     <a href="https://dev.to/https://dev.to/badarurzaman"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev" height="40" style="fill: white;"></a>
     <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/hafiz-badar-ur-zaman//"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="fill: white;"></a>
     <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21887654/hafiz-badar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="40" style="fill: white;"></a>
