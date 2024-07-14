@@ -6,10 +6,6 @@ I really enjoy learning new languages and frameworks like React, Flask, Django, 
 
 </div>
 
-## Stats
-
-![Badar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Badar-Ur-Zaman&show_icons=true&theme=gruvbox)
-
 ## Current Focus
 
 - 🔭 I’m currently working on **Billing Subscription Tool** 
@@ -22,6 +18,10 @@ I really enjoy learning new languages and frameworks like React, Flask, Django, 
 ## Contact Me
 
 - 📫 Reach me out at hbrsadiqian123@gmail.com for collaboration.
+
+## Stats
+
+![Badar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Badar-Ur-Zaman&show_icons=true&theme=gruvbox)
 
 ## Social Links
 
