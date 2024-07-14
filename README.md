@@ -46,3 +46,4 @@ I really enjoy learning new languages and frameworks like React, Flask, Django, 
 ## Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badar-ur-zaman&show_icons=true&locale=en&layout=compact" alt="badar-ur-zaman" /></p>
+[![Badar's  GitHub stats](https://github-readme-stats.vercel.app/api?username=Badar-Ur-Zaman)](https://github.com/anuraghazra/github-readme-stats)
