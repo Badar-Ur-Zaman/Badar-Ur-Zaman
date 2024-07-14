@@ -43,6 +43,6 @@ I really enjoy learning new languages and frameworks like React, Flask, Django, 
 
 </div>
 
-
+## Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
