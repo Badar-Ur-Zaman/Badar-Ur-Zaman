@@ -12,7 +12,7 @@ I really enjoy learning new languages and frameworks like React, Flask, Django, 
 
 ## Current Focus
 
-- 🔭 I’m currently working on **Billing Subscription Tool** 
+- 🔭 I’m currently working on **Pipedrive and Monday Integration on Google Cloud** 
 - 🌱 I’m currently learning **Web And Cloud** 
 
 ## Collaboration
