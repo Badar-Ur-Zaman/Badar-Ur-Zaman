@@ -1,6 +1,6 @@
-![Software Engineer](https://media.licdn.com/dms/image/D4D16AQEX91QVM-sZTA/profile-displaybackgroundimage-shrink_350_1400/0/1711551875388?e=1726099200&v=beta&t=C2zjntt15vxclZgESrU4WD4gHw4q2s6BSOeEvtAZMcM)
 
-<div align="center">
+
+<div align="center"
 
 I really enjoy learning new languages and frameworks like React, Flask, Django, and more. My passion for continuous learning helps me stand out from the crowd and stay ahead in the ever-evolving tech landscape.
 
@@ -12,12 +12,12 @@ I really enjoy learning new languages and frameworks like React, Flask, Django, 
 
 ## Current Focus
 
-- 🔭 I’m currently working on **Pipedrive and Monday Integration on Google Cloud** 
-- 🌱 I’m currently learning **Web And Cloud** 
+- 🔭 I’m currently working as an **Integration and Automation Specialist** 
+- 🌱 I’m currently learning **Cloud** 
 
 ## Collaboration
 
-- 👯 I’m looking to collaborate on **Web Projects** 
+- 👯 I’m looking to collaborate on **Web Project** 
 
 ## Contact Me
 
