@@ -2,7 +2,11 @@
 
 <div align="center"
 
-I really enjoy learning new languages and frameworks like React, Flask, Django, and more. My passion for continuous learning helps me stand out from the crowd and stay ahead in the ever-evolving tech landscape.
+I am a Software Engineering graduate from NUST with research experience at the intersection of Artificial Intelligence, Deep Reinforcement Learning, Wireless Communications, and IoT systems.
+
+My recent work focuses on applying Deep Reinforcement Learning to optimization problems in next-generation wireless systems, while I am increasingly exploring Large Language Models, parameter-efficient fine-tuning, reasoning, and reinforcement learning for language models.
+
+I enjoy understanding models from first principles, reproducing research ideas, and turning them into practical implementations rather than treating AI frameworks as black boxes.
 
 </div>
 
