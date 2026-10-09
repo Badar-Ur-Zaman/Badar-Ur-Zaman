@@ -1,8 +1,6 @@
 
 
 <div align="center"
-Hi, I'm Hafiz Badar Ur Zaman
-AI/ML Researcher | Deep Reinforcement Learning | LLMs | Wireless & IoT Systems
     
 I am a Software Engineering graduate from NUST with research experience at the intersection of Artificial Intelligence, Deep Reinforcement Learning, Wireless Communications, and IoT systems.
 
@@ -32,7 +30,15 @@ I enjoy understanding models from first principles, reproducing research ideas, 
 
 ## Collaboration
 
-- 👯 I’m looking to collaborate on **Web Project** 
+- I am interested in collaborating on research and open-source projects involving:
+
+  - Deep Reinforcement Learning
+  - LLM fine-tuning
+  - Time-series forecasting
+  - Wireless AI / 6G
+  - IoT intelligence
+
+If you are working on similar research problem or open-source AI project, feel free to reach out.
 
 ## Contact Me
 
