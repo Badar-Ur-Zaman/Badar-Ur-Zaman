@@ -1,9 +1,8 @@
 
 
 <div align="center"
-    
-    Hi, I'm Hafiz Badar Ur Zaman
-    AI/ML Researcher | Deep Reinforcement Learning | LLMs | Wireless & IoT Systems
+Hi, I'm Hafiz Badar Ur Zaman
+AI/ML Researcher | Deep Reinforcement Learning | LLMs | Wireless & IoT Systems
     
 I am a Software Engineering graduate from NUST with research experience at the intersection of Artificial Intelligence, Deep Reinforcement Learning, Wireless Communications, and IoT systems.
 
