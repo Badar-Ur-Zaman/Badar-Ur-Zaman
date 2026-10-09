@@ -1,7 +1,10 @@
 
 
 <div align="center"
-
+    
+    Hi, I'm Hafiz Badar Ur Zaman
+    AI/ML Researcher | Deep Reinforcement Learning | LLMs | Wireless & IoT Systems
+    
 I am a Software Engineering graduate from NUST with research experience at the intersection of Artificial Intelligence, Deep Reinforcement Learning, Wireless Communications, and IoT systems.
 
 My recent work focuses on applying Deep Reinforcement Learning to optimization problems in next-generation wireless systems, while I am increasingly exploring Large Language Models, parameter-efficient fine-tuning, reasoning, and reinforcement learning for language models.
@@ -16,8 +19,17 @@ I enjoy understanding models from first principles, reproducing research ideas, 
 
 ## Current Focus
 
-- 🔭 I’m currently working as an **Integration and Automation Specialist** 
-- 🌱 I’m currently learning **Cloud** 
+- Researching DRL-based optimization for wireless and IoT systems
+
+- Exploring reasoning capabilities of small and large language models
+
+- Building projects around SFT, LoRA, QLoRA, evaluation, and synthetic data generation
+
+- Studying modern Transformer and LLM architectures from first principles
+
+- Contributing to open-source machine learning and research-oriented projects
+
+- Exploring deep-learning-based time-series forecasting
 
 ## Collaboration
 
